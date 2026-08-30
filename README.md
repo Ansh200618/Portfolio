@@ -67,3 +67,10 @@ This repository is configured for GitHub Pages deployment through `.github/workf
 - **Email:** anshdeep200618@gmail.com
 - **GitHub:** https://github.com/Ansh200618
 - **LinkedIn:** https://www.linkedin.com/in/anshdeep-singh-editor
+
+## Support Development
+
+This project is free and open source. If you find it useful, you can support continued development through:
+
+- [GitHub Sponsors](https://github.com/sponsors/anshdeepofficial)
+- [Buy Me a Coffee](https://buymeacoffee.com/anshdeepofficial)
